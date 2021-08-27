@@ -1,4 +1,4 @@
 <?php
-        $output = shell_exec('cat ../../../.passwd');
+        $output = readfile('index.php');
         echo "<pre>$output</pre>";
     ?>
