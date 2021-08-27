@@ -1,1 +1,1 @@
-<?php alert('coucou'); ?>
+<?php system.out.println("some") ?>
